@@ -94,10 +94,10 @@ Full-Stack Developer with hands-on experience in Vue.js, React, Node.js, Strapi,
 
 I'm open to discussing **full-stack development**, **modern web technologies**, and exciting opportunities in software development. 
 
-📧 **Email:** Cjbuquis@gmail.com  
+📧 **Email:** Cjbuquis@gmail.com  / Cristianjay.buquis@carsu.edu.ph
 📱 **Phone:** 09472756345 / 09084782586  
 📍 **Location:** Buenavista, Agusan del Norte  
-🔗 **Portfolio:** [https://bit.ly/426J2H3](https://bit.ly/426J2H3)
+🔗 **Linkin Profile:** [https://bit.ly/426J2H3](https://bit.ly/426J2H3)
 
 ---
 
