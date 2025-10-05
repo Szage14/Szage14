@@ -1,171 +1,97 @@
-# Cristian Jay - Gamified Developer Portfolio
+# Cristian Jay “Cjay” T. Buquis — Full-Stack Developer
 
-A futuristic, cyberpunk-inspired portfolio showcasing Cristian Jay's full-stack development journey through a gamified interface. Experience progression bars, achievement systems, and neon-lit UI elements that transform a traditional resume into an interactive character profile.
-
-## Features
-
-### Gaming Elements
-- **Level & XP System**: Visual representation of experience with animated XP bar
-- **Skill Progression Bars**: Tech stack displayed as leveling skills with percentage mastery
-- **Quest System**: Projects presented as completed quests with rarity tiers (Legendary, Epic, Rare)
-- **Achievement Badges**: Visual indicators for milestones and accomplishments
-- **Character Stats Panel**: Quick overview of key metrics (projects, skills, achievements)
-
-### Cyberpunk Aesthetics
-- **Neon Color Scheme**: Electric cyan and magenta accents on dark backgrounds
-- **Holographic Cards**: Glassmorphic effects with animated borders
-- **Scan Line Effects**: Retro CRT monitor-inspired animations
-- **Grid Background**: Animated perspective grid for depth
-- **Glitch Animations**: Subtle text glitches and hover effects
-
-### Interactive UI
-- **Hover Animations**: Cards lift and glow on interaction
-- **Smooth Transitions**: Polished animations throughout
-- **Responsive Design**: Optimized for all screen sizes
-- **Accessibility**: Semantic HTML and ARIA labels
-
-## Tech Stack
-
-- **Framework**: Next.js 15 (App Router)
-- **Styling**: Tailwind CSS v4
-- **UI Components**: shadcn/ui
-- **Icons**: Lucide React
-- **Fonts**: Orbitron (headings), Inter (body)
-- **Language**: TypeScript
-
-## Project Structure
-
-\`\`\`
-├── app/
-│   ├── layout.tsx          # Root layout with font configuration
-│   ├── page.tsx            # Main portfolio page
-│   └── globals.css         # Global styles and design tokens
-├── components/
-│   └── ui/                 # shadcn/ui components
-└── public/                 # Static assets
-\`\`\`
-
-## Design System
-
-### Color Palette
-- **Primary**: Cyan (#00f0ff) - Main accent color
-- **Secondary**: Magenta (#ff00ff) - Secondary accent
-- **Background**: Dark grays (#0a0a0a, #111111)
-- **Foreground**: Light grays for text
-- **Accents**: Neon variants for highlights
-
-### Typography
-- **Headings**: Orbitron (futuristic, geometric)
-- **Body**: Inter (clean, readable)
-- **Monospace**: Geist Mono (code snippets)
-
-### Components
-
-#### Hero Section
-- Animated profile with level badge
-- Real-time XP bar animation
-- Character stats grid
-- Glowing neon borders
-
-#### Skills Section
-- Categorized skill groups (Frontend, Backend, Tools)
-- Animated progression bars
-- Percentage indicators
-- Hover effects with glow
-
-#### Projects Section
-- Quest-style cards with rarity colors
-- Tech stack badges
-- XP rewards
-- GitHub and live demo links
-- Holographic card effects
-
-#### Experience Timeline
-- Chronological work history
-- Company logos and descriptions
-- Duration indicators
-- Animated connectors
-
-#### Education Section
-- Academic achievements
-- Graduation details
-- Relevant coursework
-
-## Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-\`\`\`bash
-git clone <repository-url>
-cd cjay-portfolio
-\`\`\`
-
-2. Install dependencies
-\`\`\`bash
-npm install
-\`\`\`
-
-3. Run the development server
-\`\`\`bash
-npm run dev
-\`\`\`
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-### Build for Production
-
-\`\`\`bash
-npm run build
-npm start
-\`\`\`
-
-## Customization
-
-### Update Personal Information
-Edit the data in `app/page.tsx`:
-- Profile information (name, title, bio)
-- Skills array with categories
-- Projects with descriptions and links
-- Work experience timeline
-- Education details
-
-### Modify Design Tokens
-Adjust colors and styles in `app/globals.css`:
-- Color scheme variables
-- Animation timings
-- Border styles
-- Glow effects
-
-### Change Fonts
-Update font imports in `app/layout.tsx` and reference in `globals.css`
-
-## Performance
-
-- **Optimized Images**: Use Next.js Image component for assets
-- **Code Splitting**: Automatic with Next.js App Router
-- **CSS-in-JS**: Tailwind for minimal runtime overhead
-- **Animations**: GPU-accelerated transforms
-
-## Browser Support
-
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-## License
-
-MIT License - feel free to use this template for your own portfolio!
-
-## Credits
-
-Designed and developed with a focus on creating an immersive, game-like experience for showcasing developer skills and projects.
+[]
+[]
+[]
 
 ---
 
-**Level Up Your Portfolio** 🎮✨
+## 💫 About me
+
+I'm **Cristian Jay "Cjay" T. Buquis**, a BS Information Systems graduate (2021–2025) from **Caraga State University — Main**. A comprehensive program combining technical expertise, business acumen, and analytical thinking to prepare graduates for diverse roles in technology and management.
+
+---
+
+## 🎯 Career objective
+
+Full‑Stack Developer experienced with **Vue.js**, **React**, **Node.js**, **Strapi**, and **Laravel**. I focus on building scalable web apps, collaborating across teams, and delivering solutions that map to business goals. I’m driven to learn, iterate fast, and ship features users actually need.
+
+Seeking an entry-level position where I can apply my technical knowledge, analytical skills, and strong work ethic. Eager to contribute to organizational growth while gaining valuable professional experience. Committed to continuous learning and adapting to new challenges in a dynamic work environment.
+
+---
+
+## 🚀 Featured projects
+
+### 📊 Project Monitoring System (PMS)
+
+**Internship Project — Caraga State University (CSU)**
+
+* Headless CMS with **Strapi**; frontend built with **Vue.js 2 + Vuetify**.
+* Backend services using **Node.js** and **Express**; data persisted in **PostgreSQL**.
+* Purpose: centralized tracking of ongoing campus projects and status reporting.
+* Deployed by MIS: gso.carsu.edu.ph
+
+### 🗺️ Caraga Heritage Sites Interactive Map Portal (CTSIMP)
+
+**Capstone Project** — Full‑stack interactive web portal to showcase cultural and historical sites in the Caraga region.
+
+* Features interactive maps, site details, and multimedia content.
+* Repo: [https://github.com/Szage14/Caraga-Tourist-Spots-Interactive-Map-Portal-CTSIMP-Docs](https://github.com/Szage14/Caraga-Tourist-Spots-Interactive-Map-Portal-CTSIMP-Docs)
+
+### 🛒 Retail Management System (RMS)
+
+**ITE Competency Appraisal** — A retail management application demonstrating inventory, sales, and basic reporting flows.
+
+---
+
+## 💻 Tech stack
+
+### Frontend
+
+* Vue.js 2, Vuetify, React, Bootstrap, Tailwind CSS
+
+### Backend & Databases
+
+* Strapi (headless CMS), Node.js, Express, Laravel, PostgreSQL, MySQL, Supabase
+
+### Tools
+
+* Git, GitHub, Figma, Jupyter
+
+---
+
+## 🛠️ Core skills
+
+* Full‑stack web development
+* Version control & collaboration (Git, GitHub)
+* Data analysis with Jupyter
+* Documentation & workflow automation
+* Microsoft Office Suite
+
+**Soft skills:** eager learner, clear communicator, adaptable, collaborative, strong problem solver.
+
+---
+
+## 🌐 Languages
+
+* Filipino — Native
+* English — Fluent
+* Bisaya — Native
+
+---
+
+## 📫 Contact
+
+* Email: [cjbuquis@gmail.com](mailto:cjbuquis@gmail.com) | [cristianjay.buquis@carsu.edu.ph](mailto:cristianjay.buquis@carsu.edu.ph)
+* Phone: +63 947 275 6345 / +63 908 478 2586
+* Location: Buenavista, Agusan del Norte, Philippines
+* Portfolio: [https://szage14.github.io/My-Portfolio/](https://szage14.github.io/My-Portfolio/)
+* GitHub: [https://github.com/Szage14](https://github.com/Szage14)
+
+---
+
+> *"**The best error message is the one that never shows up.”** — *Thomas Fuchs*"*
+
+---
+
+© 2025 Cristian Jay T. Buquis — All rights reserved.
