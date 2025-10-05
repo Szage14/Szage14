@@ -6,6 +6,8 @@
 
 ---
 
+<hr style="height:8px;border:none;border-radius:6px;background:linear-gradient(90deg,#0b3d91,#38B2AC);box-shadow:0 6px 18px rgba(11,61,145,0.12);" />
+
 ## 💫 About me
 
 I'm **Cristian Jay "Cjay" T. Buquis**, a BS Information Systems graduate (2021–2025) from **Caraga State University — Main**. A comprehensive program combining technical expertise, business acumen, and analytical thinking to prepare graduates for diverse roles in technology and management.
@@ -29,7 +31,7 @@ Seeking an entry-level position where I can apply my technical knowledge, analyt
 * Headless CMS with **Strapi**; frontend built with **Vue.js 2 + Vuetify**.
 * Backend services using **Node.js** and **Express**; data persisted in **PostgreSQL**.
 * Purpose: centralized tracking of ongoing campus projects and status reporting.
-* Deployed by MIS: gso.carsu.edu.ph
+* Deployed by MIS: [gso.carsu.edu.ph](https://gso.carsu.edu.ph)
 
 ### 🗺️ Caraga Heritage Sites Interactive Map Portal (CTSIMP)
 
@@ -44,21 +46,31 @@ Seeking an entry-level position where I can apply my technical knowledge, analyt
 
 ---
 
-## 💻 Tech stack
+## 💻 Tech Stack
 
-### Frontend
+### 🖥️ Frontend
 
-* Vue.js 2, Vuetify, React, Bootstrap, Tailwind CSS
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge\&logo=vuetify\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-### Backend & Databases
+### 🔧 Backend & Databases
 
-* Strapi (headless CMS), Node.js, Express, Laravel, PostgreSQL, MySQL, Supabase
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge\&logo=strapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Tools
+### ⚙️ Other Tools
 
-* Git, GitHub, Figma, Jupyter
-
----
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
 ## 🛠️ Core skills
 
@@ -85,13 +97,4 @@ Seeking an entry-level position where I can apply my technical knowledge, analyt
 * Email: [cjbuquis@gmail.com](mailto:cjbuquis@gmail.com) | [cristianjay.buquis@carsu.edu.ph](mailto:cristianjay.buquis@carsu.edu.ph)
 * Phone: +63 947 275 6345 / +63 908 478 2586
 * Location: Buenavista, Agusan del Norte, Philippines
-* Portfolio: [https://szage14.github.io/My-Portfolio/](https://szage14.github.io/My-Portfolio/)
-* GitHub: [https://github.com/Szage14](https://github.com/Szage14)
-
----
-
-> *"**The best error message is the one that never shows up.”** — *Thomas Fuchs*"*
-
----
-
-© 2025 Cristian Jay T. Buquis — All rights reserved.
+* Portfolio: [Szage14 — My Portfolio](https://szage14.github.io/My-Portfolio/)
